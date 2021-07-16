@@ -3,9 +3,9 @@
 
 
 - First clone This Project In your local 
-- second run composer install && composer update
-- run php artisan migrate
-- run php artisan serve
+- second run `composer install` && `composer update`
+- run `php artisan migrate` 
+- run `php artisan serve`
 - after these open postman to test !!
 - Create a user account for testing on postaman 
 ## First 
