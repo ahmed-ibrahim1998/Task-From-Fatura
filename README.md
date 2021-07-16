@@ -2,11 +2,18 @@
 ## Task From Fatura
 
 
-- [First clone This Project In your local ]
-- [Powerful dependency injection container]
-- Multiple back-ends for [session] and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- First clone This Project In your local 
+- second run composer install && composer update
+- run php artisan migrate
+- run php artisan serve
+- after these open postman to test !!
+- Create a user account for testing on postaman
+Endpoint : 127.0.0.1:8000/api/register
+Method: POST
+Payload:
+
+name: Ahmed
+email: Ahmed@email.com
+password: Ahmed
+password_confirmation: Ahmed
 
