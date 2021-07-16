@@ -4,6 +4,7 @@
 
 - First clone This Project In your local `git clone https://github.com/ahmed-ibrahim1998/Task-From-Fatura`
 - second run `composer install` && `composer update`
+- create database name in xampp or wampp ..... And change name in `.env` file
 - run `php artisan migrate` 
 - run `php artisan serve`
 - after these open postman to test !!
