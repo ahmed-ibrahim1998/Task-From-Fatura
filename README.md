@@ -2,7 +2,7 @@
 ## Task From Fatura
 
 
-- First clone This Project In your local 
+- First clone This Project In your local `git clone https://github.com/ahmed-ibrahim1998/Task-From-Fatura`
 - second run `composer install` && `composer update`
 - run `php artisan migrate` 
 - run `php artisan serve`
